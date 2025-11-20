@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahadeva Sankaram Telidevara</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently a **Student at GITAM, Visakhapatnam**
+- 🔭 I’m Co-Founder and President of **Switch Space**
 
 - 👯 I’m looking to collaborate on **building distributed systems and DevOps solutions**
 
