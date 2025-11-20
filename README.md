@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning new technologies**
 
-- 💬 Ask me about **react, and django**
+- 💬 Ask me about **GO, and Angular**
 
 - 📫 How to reach me **tmsankaram@gmail.com**
 
