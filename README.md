@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mahadeva Sankaram Telidevara<br>A passionate Software Engineer from India<br>🔭 I’m Co-Founder and President of Switch Space<br><br>👯 I’m looking to collaborate on building distributed systems and DevOps solutions<br><br>🤝 I’m looking for help with learning new technologies<br><br>💬 Ask me about GO, and Angular<br><br>📫 How to reach me tmsankaram@gmail.com<br><br>⚡ Fun fact I calculate my time with song durations
+Hi 👋, I'm Mahadeva Sankaram Telidevara<br>A passionate Software Engineer from India<br>🔭 I’m Co-Founder and President of Switch Space<br><br>👯 I’m looking to collaborate on building distributed systems and DevOps solutions<br><br>🤝 I’m looking for help with learning new technologies<br><br>💬 Ask me about GO and Elixir<br><br>📫 How to reach me tmsankaram@gmail.com<br><br>⚡ Fun fact I calculate my time with song durations
 
 
 ## 🌐 Socials:
